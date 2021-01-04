@@ -1,0 +1,7 @@
+com\bootcamp\tests\service\FilmService.class
+com\bootcamp\tests\controller\FilmController.class
+com\bootcamp\tests\config\RestClientConfiguration.class
+com\bootcamp\tests\entity\Film.class
+com\bootcamp\tests\TestApplication.class
+com\bootcamp\tests\service\FilmApi.class
+com\bootcamp\tests\service\Impl\FilmServiceImpl.class
